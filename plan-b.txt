@@ -1,5 +1,6 @@
 Plan B
 - Mahir Java
 - Mahir Android Studio
-- Mahir Design UI
+- Mahir Design UI 
 - Konsisten membuat konten dan menghasilkan uang dari Youtube
+- Menjadi developer Android dan Game
